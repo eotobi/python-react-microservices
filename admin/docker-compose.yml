@@ -1,1 +1,11 @@
-# 
+version: '20.10.22'
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 8000:8000
+    volumes:
+      - .:/app
+  
