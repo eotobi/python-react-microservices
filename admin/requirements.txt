@@ -1,0 +1,7 @@
+Django==4.1.6
+Flask==2.2.2
+djangorestframework==3.14.0
+mysqlclient==2.8.0
+django-mysql==3.9
+django-cors-headers==3.5.8
+pika==1.1.0
