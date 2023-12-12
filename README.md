@@ -22,6 +22,8 @@ To run the application from the ground up, follow these simple steps:
    ```bash
    cd main
 
+3. **Launch Main Application:**
+
     ```bash
     docker-compose up
 
@@ -33,6 +35,7 @@ To run the application from the ground up, follow these simple steps:
 3. **Launch Admin Application:**
 
     ```bash
+
     docker-compose up
 
 4. **Access the Frontend App:**
